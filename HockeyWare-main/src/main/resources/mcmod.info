@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "hockeyware",
+    "name": "HockeyWare",
+    "description": "",
+    "version": "Beta 1.4.1",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "hockeyl8"
+    ],
+    "credits": "",
+    "logoFile": "HockeyWare.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
